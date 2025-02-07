@@ -1,4 +1,4 @@
-# Adaptive-RAG-with-the-Wikipedia
+# Adaptive-RAG-with-Wikipedia
 
 This Python script implements an adaptive Retrieval Augmented Generation (RAG) system using LangChain.  
 
