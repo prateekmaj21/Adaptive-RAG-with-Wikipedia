@@ -1,6 +1,19 @@
 # Adaptive-RAG-with-the-Wikipedia
 
-This Python script implements an adaptive Retrieval Augmented Generation (RAG) system using LangChain.  \
+This Python script implements an adaptive Retrieval Augmented Generation (RAG) system using LangChain.  
+
+# Tracing ScreenShots:
+
+### Query 1
+![ss1](https://github.com/user-attachments/assets/2351aacf-c7c6-4dd5-abe2-ff4f0e959e8f)
+### Query 2
+![ss2](https://github.com/user-attachments/assets/ee5b2fdd-cca2-4eed-8a45-adaf2a85d16c)
+### Query 3
+![ss3](https://github.com/user-attachments/assets/8f23d0b4-89a1-4449-b628-c075b793b962)
+
+
+
+
 **1. Setup and Dependencies:**
 
 * **Imports:** Imports necessary libraries, including LangChain components for LLMs, embeddings, vectorstores, document loaders, and text splitters.  It also imports tools for interacting with Wikipedia and for visualizing the workflow.  Crucially, it includes LangSmith for experiment tracking and debugging.
