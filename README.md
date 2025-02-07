@@ -11,6 +11,10 @@ This Python script implements an adaptive Retrieval Augmented Generation (RAG) s
 ### Query 3
 ![ss3](https://github.com/user-attachments/assets/8f23d0b4-89a1-4449-b628-c075b793b962)
 
+### Flow:
+![image](https://github.com/user-attachments/assets/8e0a8e94-8b71-477e-9fa9-e93ecd1aea2d)
+
+
 
 
 
